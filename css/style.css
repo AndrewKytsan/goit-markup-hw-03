@@ -300,7 +300,6 @@ img{
 .adress-list{
     list-style: none;
     display: flex;
-    justify-content: flex-start;
     align-items: flex-start;
     flex-direction: column;
 }
@@ -310,6 +309,5 @@ img{
     color: rgba(255, 255, 255, 0.6);
     line-height: 1.74;
     font-weight: normal;
-    margin-top: 9px;
+    padding-top: 9px;
 }
-
